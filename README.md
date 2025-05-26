@@ -1,3 +1,5 @@
 # Mari_Ros--
 
-### Hola a todos 👋 mi nombres, es Marianna Blanco. Estoy encantada de iniciar una carrera en el area de programacion, creo que por primera vez en mi vida, esty haciendo algo que me llena, me gusta y que tiene sentido dando respuesta a un simple # 😀
+###👋 Hi, I’m @MariannaB424
+👀 I'm interested in developing and collaborating on repetitive tasks. I envision myself leading projects for important people and companies in the future.
+🌱 I'm currently learning Python, starting to do some fairly basic projects as I'm a junior. # 😀
